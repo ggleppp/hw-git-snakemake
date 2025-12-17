@@ -22,3 +22,6 @@ cat results/output.txt ```
 ```
 Hello from Snakemake! Workflow успешно выполнен.
 ```
+
+## Дата выполнения
+18 декабря 2024
