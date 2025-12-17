@@ -16,12 +16,5 @@ pip3 install snakemake
 snakemake --cores 1
 
 # Проверьте результат
-cat results/output.txt ```
-
-## Ожидаемый вывод
+cat results/output.txt
 ```
-Hello from Snakemake! Workflow успешно выполнен.
-```
-
-## Дата выполнения
-18 декабря 2024
