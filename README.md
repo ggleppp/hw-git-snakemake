@@ -16,7 +16,8 @@ pip3 install snakemake
 snakemake --cores 1
 
 # Проверьте результат
-cat results/output.txt ```
+cat results/output.txt
+```
 
 ## Ожидаемый вывод
 ```
